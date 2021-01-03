@@ -20,10 +20,10 @@ Movie list created with redux state management and yts API.
 ## Screenshots
 
 <p>
- <img src="Screenshot_1609705845.png"  width = "400">
-<img src="Screenshot_1609705939.png"  width = "400" >
-<img src="Screenshot_1609705948.png"  width = "400" >
-<img src="Screenshot_1609705979.png"  width = "400" >
+ <img src="Screenshot_1.png"  width = "400">
+<img src="Screenshot_2.png"  width = "400" >
+<img src="Screenshot_3.png"  width = "400" >
+<img src="Screenshot_4.png"  width = "400" >
 </p>
 
 ## Getting Started
